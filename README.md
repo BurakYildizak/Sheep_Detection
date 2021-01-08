@@ -11,7 +11,9 @@ Sheep data folder contains labels, dataset, sheep.names and sheep.data files
 Data link:https://drive.google.com/drive/folders/1qLion2Ukql4xIEOKlUGAG6_ygQQFCFeK?usp=sharing
 
 
+
 Run image_detection.py for sheep detection in an image
+
 Run video_detection for sheep detection in a video
 
 
