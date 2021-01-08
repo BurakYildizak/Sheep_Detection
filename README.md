@@ -14,4 +14,4 @@ Data link: https://drive.google.com/drive/folders/1qLion2Ukql4xIEOKlUGAG6_ygQQFC
 
 Run image_detection.py for sheep detection in an image
 
-Run video_detection for sheep detection in a video
+Run video_detection.py for sheep detection in a video
