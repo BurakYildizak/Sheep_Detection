@@ -1,4 +1,4 @@
-# Sheep_Detection
+# SheepDetection-Yolov4
 
 Sheep detection was made with Yolov4-416
 
